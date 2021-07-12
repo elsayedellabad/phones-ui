@@ -1,6 +1,10 @@
 # Phones-UI
 Single Page UI App for Countries Phones Filteration Project by using Angular Framework [V-11.2.14].
 
+### Prerequisite 
+
+You need to clone PHP backend project "https://github.com/elsayedellabad/phones-app.git"
+
 ### Server Requirments
 
 NodeJS server:
